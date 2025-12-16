@@ -481,7 +481,7 @@ async def main():
     # 使用异步上下文管理器初始化客户端
     async with HouseValveClient(
         base_url="http://112.53.73.250:2288",
-        token="d173a003-867a-48fb-ba38-da0167649fe2"
+        token="a704c946-b32e-49eb-85d8-f0a576695d78"
     ) as client:
         # 示例1：使用封装的方法更新阀号
         # print("=== 示例1：更新阀号 ===")
